@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev0052&show_icons=true&locale=en&layout=compact" alt="dev0052" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev0052&show_icons=true&locale=en" alt="dev0052" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev0052&" alt="snitchtwt" /></p>
