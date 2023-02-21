@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/devfedup" target="blank"><img src="https://img.shields.io/twitter/follow/devfedup?logo=twitter&style=for-the-badge" alt="devfedup" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **C++, Python, Git, Java, Cloud Security and Hosting**
 
 - 📫 How to reach me **realdev0052@gmail.com**
 
